@@ -1,2 +1,2 @@
-# Calculo_MDC
- MDC - Máximo Divisor Comum
+Cálculo_MDC
+MDC - Máximo Divisor Comum
